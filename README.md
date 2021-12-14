@@ -21,6 +21,9 @@ Quiz app is open-source Quiz app for Android & ios. It is built with Dart on top
 
 
 
+<p><img src="snapshot/git.gif" /></p>
+<p align="center"><b>Quiz App</b></p>
+
 
 ## About🤠
 
